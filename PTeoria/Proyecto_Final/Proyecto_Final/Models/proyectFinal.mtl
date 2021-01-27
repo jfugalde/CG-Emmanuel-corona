@@ -1,0 +1,463 @@
+newmtl proyectFinal_Material_001
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd wooden.jpg
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 96.08
+newmtl proyectFinal_Material_002
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd wooden.jpg
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 60.78
+newmtl proyectFinal_lambert90SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Wooden.jpg
+Ni 1.00
+newmtl proyectFinal_lambert91SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd azulMarino.jpg
+Ni 1.00
+newmtl proyectFinal_lambert92SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd sabana.jpg
+Ni 1.00
+newmtl proyectFinal_lambert93SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd rojoCarmin.jpg
+Ni 1.00
+newmtl proyectFinal_lambert94SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd rosa.jpg
+Ni 1.00
+newmtl proyectFinal_lambert95SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd sabana.jpg
+Ni 1.00
+newmtl proyectFinal_lambert96SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl proyectFinal_lambert97SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd rojoCarmin.jpg
+Ni 1.00
+newmtl proyectFinal_lambert98SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd metal.jpg
+Ni 1.00
+newmtl proyectFinal_lambert99SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd rosa.jpg
+Ni 1.00
+newmtl proyectFinal_lambert100SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd lila.jpg
+Ni 1.00
+newmtl proyectFinal_lambert101SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd metal.jpg
+Ni 1.00
+newmtl proyectFinal_lambert102SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd verdeAgua.jpg
+Ni 1.00
+newmtl proyectFinal_lambert104SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd rosa.jpg
+Ni 1.00
+newmtl proyectFinal_lambert105SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd metal.jpg
+Ni 1.00
+newmtl proyectFinal_lambert106SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd rojoCarmin.jpg
+Ni 1.00
+newmtl proyectFinal_lambert107SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd rosa.jpg
+Ni 1.00
+newmtl proyectFinal_lambert108SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd cafeArbol.jpg
+Ni 1.00
+newmtl proyectFinal_lambert109SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd sabana.jpg
+Ni 1.00
+newmtl proyectFinal_lambert110SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd metal.jpg
+Ni 1.00
+newmtl proyectFinal_lambert111SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd verdeAgua.jpg
+Ni 1.00
+newmtl proyectFinal_lambert112SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd naranja.png
+Ni 1.00
+newmtl proyectFinal_lambert113SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd rojoCarmin.jpg
+Ni 1.00
+newmtl proyectFinal_lambert114SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd rosa.jpg
+Ni 1.00
+newmtl proyectFinal_lambert115SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd lila.jpg
+Ni 1.00
+newmtl proyectFinal_lambert116SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd verdeBosque.jpg
+Ni 1.00
+newmtl proyectFinal_lambert118SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd sabana.jpg
+Ni 1.00
+newmtl proyectFinal_lambert119SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd metal.jpg
+Ni 1.00
+newmtl proyectFinal_lambert120SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd metal.jpg
+Ni 1.00
+newmtl proyectFinal_lambert122SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd cafeArbol.jpg
+Ni 1.00
+newmtl proyectFinal_lambert123SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd verdeArbol.jpg
+Ni 1.00
+newmtl proyectFinal_proyectFinal_Lines
+illum 4
+Kd 0.02 0.02 0.02
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 96.08
+newmtl proyectFinal_proyectFinal_MainColor
+illum 4
+Kd 0.62 0.13 0.04
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 96.08
+newmtl proyectFinal_proyectFinal_banquito_initialShadingGroup
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd rojoCarmin.jpg
+Ni 1.00
+newmtl proyectFinal_proyectFinal_casaCompleta_initialShadingGroup
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl proyectFinal_proyectFinal_comoda_lambert6SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd DeskBody.jpg
+Ni 1.00
+newmtl proyectFinal_proyectFinal_comoda_lambert6SG7
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd DeskBody.jpg
+Ni 1.00
+newmtl proyectFinal_proyectFinal_cuarto_lambert2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd carne.jpg
+Ni 1.00
+newmtl proyectFinal_proyectFinal_cuarto_lambert5SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd tapete.jpg
+Ni 1.00
+newmtl proyectFinal_proyectFinal_desk_chair_lambert2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Wooden.jpg
+Ni 1.00
+newmtl proyectFinal_proyectFinal_desk_chair_lambert3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd naranja.png
+Ni 1.00
+newmtl proyectFinal_proyectFinal_desk_lambert2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd DeskBody.jpg
+Ni 1.00
+newmtl proyectFinal_proyectFinal_gorra_lambert6SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd rojoCarmin.jpg
+Ni 1.00
+newmtl proyectFinal_proyectFinal_initialShadingGroup2
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl proyectFinal_proyectFinal_lambert7SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Wooden.jpg
+Ni 1.00
+newmtl proyectFinal_proyectFinal_lambert9SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd sabana.jpg
+Ni 1.00
+newmtl proyectFinal_proyectFinal_lambert20SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd cafeArbol.jpg
+Ni 1.00
+newmtl proyectFinal_proyectFinal_lambert21SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd azulMarino.jpg
+Ni 1.00
+newmtl proyectFinal_proyectFinal_lambert22SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd lila.jpg
+Ni 1.00
+newmtl proyectFinal_proyectFinal_lambert23SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd verdeAgua.jpg
+Ni 1.00
+newmtl proyectFinal_proyectFinal_lambert24SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd naranja.png
+Ni 1.00
+newmtl proyectFinal_proyectFinal_lambert31SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd marron.png
+Ni 1.00
+newmtl proyectFinal_proyectFinal_lambert49SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Wooden.jpg
+Ni 1.00
+newmtl proyectFinal_proyectFinal_lambert57SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd verdeAgua.jpg
+Ni 1.00
+newmtl proyectFinal_proyectFinal_lambert58SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd metal.jpg
+Ni 1.00
+newmtl proyectFinal_proyectFinal_lambert65SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd marron.png
+Ni 1.00
+newmtl proyectFinal_proyectFinal_lambert84SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd metal.jpg
+Ni 1.00
+newmtl proyectFinal_proyectFinal_lambert85SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd rosa.jpg
+Ni 1.00
+newmtl proyectFinal_proyectFinal_lambert86SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd rosa.jpg
+Ni 1.00
+newmtl proyectFinal_proyectFinal_librero_lambert25SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd rojo.jpg
+Ni 1.00
+newmtl proyectFinal_proyectFinal_piggyBank_initialShadingGroup
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd rosa.jpg
+Ni 1.00
+newmtl proyectFinal_proyectFinal_pizarron_lambert32SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd sabana.jpg
+Ni 1.00
+newmtl proyectFinal_proyectFinal_proyectFinal_initialShadingGroup2
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl proyectFinal_proyectFinal_proyectFinal_proyectFinal_initialShadingGroup
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
